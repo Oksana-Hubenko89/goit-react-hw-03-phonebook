@@ -1,0 +1,6 @@
+.List{
+    text-transform:capitalize;
+    list-style-type: none;
+    font-size: 20px;
+    margin: 10px;
+}
